@@ -445,6 +445,7 @@ main {
   align-items: center;
   width: 150px;
   height: 48px;
+  margin: auto;
   margin-top: 20px;
   background-color: #faf8f7;
   border: 2px solid var(--bitcoin-orange);
